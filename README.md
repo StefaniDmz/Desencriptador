@@ -1,10 +1,10 @@
 #Portafolio
 
-<h6> Challenge #1 - ORACLE/ALURA </h6>
+<h3> Challenge #1 - ORACLE/ALURA </h3>
 
-<h2>RETO A REALIZAR:</h2>
+<h4>RETO A REALIZAR:</h4>
 
-<h1>Realizar un encriptador y desencriptador de textos con los siguientes valores escenciales para su funcionamiento;
+<h6>Realizar un encriptador y desencriptador de textos con los siguientes valores escenciales para su funcionamiento;
 
 Las "llaves" de encriptación que utilizaremos son las siguientes:
 
@@ -34,6 +34,6 @@ Elementos principales de la página y extras;
 - Área para mostrar el texto encriptado/desencriptado.
 
 Extra!
-- Un rodapie con los datos de la persona que desarrolló el sitio web!<h1>
+- Un rodapie con los datos de la persona que desarrolló el sitio web!<h6>
 
 <a href="https://stefanidmz.github.io/Desencriptador/">Visualiza mi repositorio</a>
