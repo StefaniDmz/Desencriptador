@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html lang = "en">
+
+    <head>
+
+        <meta charset = "UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width"> 
+        <link rel="stylesheet" href="style.css">
+        <title> Reto de Desencriptador </title>
+        <script type="text/javascript" src="script.js"></script>
+        
+    </head>
+
+
+    <body>
+
+        <div class="contenedor">
+      
+            <div class="Izquierda">
+            
+                <input class="text-input" id="inputTexto" type="text" placeholder="Ingrese el texto aquí">
+ 
+            </div>
+
+            <div class="Derecha">
+            
+                <img src="imagenes/buscador.png" alt="Imagen representativa de buscador" id="Imagen">
+                <h1 id="texto">Ningún mensaje fue encontrado</h1>
+                <textarea name="name" id="texto2" rows="8" cols="80">Ingrese el texto que desee encriptar o desencriptar </textarea> 
+                <button id="copiar" type="button" name="button" onclick="copy()">Copiar</button>
+
+
+            </div>
+            
+            <div class="Botones">
+            
+                <p>Solo minusculas y sin acentos.</p>
+                <button type="button" id="btn-encriptar" onclick="encriptar()">Encriptar</button>
+                <button type="button" id="btn-desencriptar" onclick="desencriptar()">Desencriptar</button>
+
+            </div>
+
+
+        </div>
+
+
+
+    </body>
+
+    <footer>
+
+        <p> ORACLE/Alura Next Education - Grupo 5 | Github.com/StefaniDmz </p>
+    
+    </footer>
+
+
+</html>
